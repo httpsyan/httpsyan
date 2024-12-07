@@ -1,16 +1,40 @@
-## Hi there 👋
+### Eai rapaziada!
 
-<!--
-**httpsyan/httpsyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Sejam Bem-vindos ao meu perfil.<br>
+  Meu nome é <strong>Yan Castro</strong> e trabalho como <strong>Desenvolvedor front-end</strong> e eu sou apaixonado por motion designer.
+</p>
 
-Here are some ideas to get you started:
+**Linguagens & Frameworks**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6" alt="CSS" />
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-333333?style=for-the-badge&logo=next.js" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-React%20Native-333333?style=for-the-badge&logo=react" alt="React Native" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-333333?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-Framer%20Motion-333333?style=for-the-badge&logo=framer" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Golang-333333?style=for-the-badge&logo=go" alt="Golang" />
+  <img src="https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql" alt="MySQL" />
+</p>
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)  
+
+### Experiência de trabalho 
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" width="150px" height="50px" alt="Banlek" src="https://homologacao.banlek.com/img/site/logo-site.svg"/>](https://banlek.com)
+
+**Desenvolvedor Full-Stack** \
+[**BANLEK**](https://banlek.com/) • Desenvolvedor \
+Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `Typescript` e `NextJs`,
+<br/>
