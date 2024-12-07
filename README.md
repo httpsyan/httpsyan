@@ -24,11 +24,13 @@
 
 **Ferramentas de Desenvolvimento**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)  
-
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+![Warp](https://img.shields.io/badge/-Warp-333333?style=for-the-badge&logo=warp)
+![Obsidian](https://img.shields.io/badge/-Obsidian-333333?style=for-the-badge&logo=obsidian)
+ 
 ### Experiência de trabalho 
 Abaixo você encontrará minha experiência de trabalho mais recente:
 
@@ -36,5 +38,5 @@ Abaixo você encontrará minha experiência de trabalho mais recente:
 
 **Desenvolvedor Full-Stack** \
 [**BANLEK**](https://banlek.com/) • Desenvolvedor \
-Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `Typescript` e `NextJs`,
+Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `Typescript`, `NextJs`.
 <br/>
