@@ -30,7 +30,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)  
 
 ### Experiência de trabalho 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+Abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" width="150px" height="50px" alt="Banlek" src="https://homologacao.banlek.com/img/site/logo-site.svg"/>](https://banlek.com)
 
