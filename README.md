@@ -37,7 +37,7 @@ Abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" width="150px" height="50px" alt="Banlek" src="https://homologacao.banlek.com/img/site/logo-site.svg"/>](https://banlek.com)
 
-**Desenvolvedor Full-Stack** \
+**Desenvolvedor Front-end** \
 [**BANLEK**](https://banlek.com/) • Desenvolvedor \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `Typescript`, `NextJs`.
 <br/>
