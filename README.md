@@ -30,7 +30,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
 ![Warp](https://img.shields.io/badge/-Warp-333333?style=for-the-badge&logo=warp)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-333333?style=for-the-badge&logo=obsidian)
- 
+[![Minha Playlist](https://img.shields.io/badge/Minha%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/29h7rRogD5LeE6Mwjr4vwe?si=74b5f1deeb654459)
+
 ### Experiência de trabalho 
 Abaixo você encontrará minha experiência de trabalho mais recente:
 
