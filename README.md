@@ -37,7 +37,15 @@ Abaixo você encontrará minha experiência de trabalho mais recente:
 
 [<img align="left" width="150px" height="50px" alt="Banlek" src="https://homologacao.banlek.com/img/site/logo-site.svg"/>](https://banlek.com)
 
-**Desenvolvedor Front-end** \
+**Desenvolvedor** \
 [**BANLEK**](https://banlek.com/) • Desenvolvedor \
 Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `Typescript`, `NextJs`.
 <br/>
+
+[<img align="left" width="150px" height="50px" alt="Banlek" src="https://inkpen.com.br/_next/static/media/logoName.02337e2b.svg"/>](https://app.inkpen.com.br/)
+
+**Desenvolvedor** \
+[**INKPEN**](https://app.inkpen.com.br/) • Desenvolvedor \
+Linguagens & Tecnologias: `HTML`, `CSS`, `JavaScript`, `NestJs`, `PostgreSQL`, `Typescript`, `NextJs`.
+<br/>
+
